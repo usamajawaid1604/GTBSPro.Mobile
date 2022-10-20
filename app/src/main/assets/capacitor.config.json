@@ -1,0 +1,6 @@
+{
+	"appId": "com.gentecbspro.mobile",
+	"appName": "gtbspro",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

@@ -1,0 +1,41 @@
+
+
+@import url(../../styles.scss);
+
+
+::ng-deep.Div_customCard .CustomFormPanel{
+  border: 1px solid #e7e7e7 !important;
+  padding: 1% !important;
+  background-color: #f2f8ff !important;
+  height: 80vh !important;
+  border-radius: 5px !important;
+  box-shadow: 0 5px 10px #e2eefd !important;
+  overflow: hidden !important;
+  overflow-y: auto !important;
+}
+
+::ng-deep.CustomHeadingDiv{
+  font-size: 1.5rem !important;
+  font-weight: 600 !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase !important;
+}
+::ng-deep.CustomHeadingDiv .Spanicon{
+  font-size: 1.2rem !important;
+}
+
+::ng-deep.CustomBreadCrumbs{
+  font-size: 0.7rem !important;
+  text-align: right !important;
+}
+
+
+::ng-deep.CustomDropDownSelect,
+::ng-deep.CustomDropDownSelect:focus,
+::ng-deep.CustomDropDownSelect:focus-within{
+  border-radius: 1rem !important;
+  border: 1px solid #8C93A4 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+  color: #000 !important;
+}

@@ -1,0 +1,19 @@
+{
+    "clients": [
+        { "id": "200607K174581GT9", "name": "Gentec" },
+        { "id": "200724K18242SS9",  "name": "Sun Sports" },
+        { "id": "201207K13593AWR9",  "name": "Al-Wahab Rice Mills" },
+        { "id": "200807K14015SAZDMY9",  "name": "SAZ Dummy" },
+        { "id": "200925K135699",  "name": "SAZ" },
+        { "id": "201107K13594HH9",  "name": "Happy House" },
+        { "id": "200825K14507EC9",  "name": "Elite" }
+    ],
+    "FBRIntegeratedClients": [
+        { "id": "200607K174581GT9" },
+        { "id": "200724K18242SS9" }
+    ],
+    "Development_API": "https://gentecbspro.com/MobileApp/CoreAPI/api/",
+    "Production_API": "https://gentecbspro.com/MobileApp/CoreAPI/api/",
+    "Socket_Server": "http://95.111.252.8:3636",
+    "NotificationTimeInterval":"1"
+}
